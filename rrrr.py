@@ -1,1 +1,0 @@
-"a" + "b" if "123".isdigit() else "x" + "y"
