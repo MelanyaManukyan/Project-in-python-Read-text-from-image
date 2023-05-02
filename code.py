@@ -42,6 +42,7 @@ def show_image(image):
 
     plt.imshow(image)
     plt.show()
+    
 
 
 print(show_image(cv2.imread("k.png")))

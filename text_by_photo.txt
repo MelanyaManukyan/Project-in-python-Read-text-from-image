@@ -1,0 +1,5 @@
+Times New Roman
+
+Times New Roman Italic
+Times New Roman Bold
+Times New Roman Bold Italic
